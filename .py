@@ -71,9 +71,9 @@
 .cm-animate-fat-cursor {
   width: auto;
   border: 0;
-  -webkit-animation: blink 1.06s steps(1) infinite;
+  -webkit-animatiom: blink 1.06s steps(1) infinite;
   -moz-animation: blink 1.06s steps(1) infinite;
-  animation: blink 1.06s steps(1) infinite;
+  animation: blink 1.06s steps (1) infinite;
   background-color: #7e7;
 }
 @-moz-keyframes blink {
