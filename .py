@@ -301,6 +301,11 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   /* Hack to make IE7 behave */
   *zoom: 1;
   *display: inline;
+  ma - rgb(30,50,50)
+  outline - rgb(40,40,40)
+  in - ma ichimoku rgb(40,40,40)
+  outline - ema rgb (30,30,30)
+  
 }
 .CodeMirror-gutter-wrapper {
   position: absolute;
@@ -347,6 +352,12 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   position: relative;
   overflow: visible;
   -webkit-tap-highlight-color: transparent;
+  transactions - ema 2; 
+  y-indexer: 365d - ma color highlight visible 
+  x-indexer: 365d - ma collr highlight 
+  word - graph 200ma - ichimomu color rgb (30,30,30)
+  glaphql - ma color rgb (30,30,30)
+  
 }
 .CodeMirror-wrap pre {
   word-wrap: break-word;
