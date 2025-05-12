@@ -892,7 +892,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 
 .result-window {
   /*background: #fbfafa;*/
-  box-shadow: inset 5px 0px 4px -3px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 5px 0px 4px -3px rgb (0, 0, 0, 0.2);
 
   position: absolute;
   left: 50%;
@@ -918,3 +918,51 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 .result-window {
   overflow: hidden;
 }
+
+.query-editor .CodeMirror {
+  height: auto;
+  min-height 100px;
+  margin: 0px 7px 35px;
+  background: none;
+  ma color : (30,30,30)
+  
+  .result-window {
+  /*background: #fbfafa;*/
+  box-shadow: inset 5px 0px 4px -3px rgba(0, 0, 0, 0.2);
+  inline - shadow: inset 2px
+  outerline - shadow: outset 1px
+  in - subline shadow: putset 2px
+    -webkit-box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.2),
+    inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.2),
+    inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  box-shadow:
+    0 1px 1px rgba(0, 0, 0, 0.2),
+    inset 0 0 0 1px rgba(0, 0, 0, 0.1);
+  font-family: arial;
+  line-height: 0; 
+  padding: 0px 4px 1px;
+  line-height: 0;
+  pending-crypto 6;
+  transaction-xrpsub: rgb(20,20,20,)
+  nomal/height : 28px
+  
+  CodeMirror-hint-information .content {
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  .body-font(@size: 15px);
+  -webkit-line-clamp: 3;
+  max-height: 48px
+  overflow: hidden;
+  text-overflow: -o-ellipsis-lastline;
+  max text line- 30px hidden-clamp:3
+  text content inline 30px - nomal height 
+  hidden clamp inline text 30px
+  height outline 40px text out post - 3px
+  original cardabo chain transaction 30x
+  
+  content max textline outer 30px - xrp 
+  
+  
