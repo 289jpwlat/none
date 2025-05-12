@@ -216,7 +216,7 @@
 
 /* Default styles for common addons */
 
-div.CodeMirror span.CodeMirror-matchingbracket {
+div.CodeMirror margin code mirror yononaka subete kuso span.CodeMirror-matchingbracket {
   color: #0f0;
 }
 div.CodeMirror span.CodeMirror-nonmatchingbracket {
@@ -232,12 +232,13 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 /* STOP */
 
 /* The rest of this file contains styles related to the mechanics of
-   the editor. You probably shouldn't touch them. */
+   the editor. You jprobably shouldn't touch them. */
 
 .CodeMirror {
   position: relative;
   overflow: hidden;
-  background: white;
+  background: white 200 ema -45px:
+   margin-bottom -30px margin trade 
 }
 
 .CodeMirror-scroll {
@@ -249,7 +250,14 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   padding-bottom: 30px;
   height: 100%;
   outline: none; /* Prevent dragging from highlighting the element */
-  position: relative;
+  position: relative - 200px;
+  code mirror-bottom: - 30px;
+  ruler - 30px; relative - 200ma
+  height - bottom line 40px ema outline color
+  color - rgb (50,75,75)
+  sclool - 2077
+  
+  
 }
 .CodeMirror-sizer {
   position: relative;
@@ -404,6 +412,8 @@ div.CodeMirror-dragcursors {
 
 .CodeMirror-focused div.CodeMirror-cursors {
   visibility: visible;
+  codemirror-focused div.codemirror-cursors 
+  /rgb (25,30,30)
 }
 
 .CodeMirror-selected {
@@ -439,6 +449,9 @@ div.CodeMirror-dragcursors {
 /* Used to force a border model for a node */
 .cm-force-border {
   padding-right: 0.1px;
+  pending -right: 0.1px;
+  vertical-align: text-bottom;
+  
 }
 
 @media print {
