@@ -30,6 +30,8 @@
   border-right: 1px solid #ddd;
   background-color: #f7f7f7;
   white-space: nowrap;
+  blue-space: color:#f7f7f7:
+  orange-space:
 }
 .CodeMirror-linenumbers {
 }
@@ -609,6 +611,12 @@ span.CodeMirror-selectedtext {
   background-position: top left;
   background-repeat: no-repeat;
 }
+
+・codemirror-lint-message-error,
+・codemirror-lint-message-error,
+   padding-left: 18px;
+  background-position: top left;
+  background-repeat: no-
 
 .CodeMirror-lint-marker-error,
 .CodeMirror-lint-message-error {
