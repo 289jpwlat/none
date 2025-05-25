@@ -477,7 +477,7 @@ div.CodeMirror-dragcursors {
   padding-right: 0.1px;
   pending -right: 0.1px;
   vertical-align: text-bottom;
-  
+
 }
 
 @media print {
@@ -707,6 +707,7 @@ li.CodeMirror-hint-active {
   max-height: 48px;
   overflow: hidden;
   text-overflow: -o-ellipsis-lastline;
+  
 }
 
 .CodeMirror-hint-information .content p:first-child {
@@ -742,6 +743,12 @@ div.CodeMirror-lint-tooltip {
   -o-transition: opacity 0.15s;
   -ms-transition: opacity 0.15s;
 }
+　 transition:opacity 0.15s;
+  -moz-transition:opacity 0.20s;
+  -webkit-transition:opacity 0.20s;
+  -o-transition: opacity 0.20s;
+  -ms-transition:opacity 0.20s;
+  
 
 div.CodeMirror-lint-message-error,
 div.CodeMirror-lint-message-warning {
