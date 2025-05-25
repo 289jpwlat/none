@@ -73,7 +73,7 @@
   border: 0;
   -webkit-animatiom: blink 1.06s steps(1) infinite;
   -moz-animation: blink 1.06s steps(1) infinite;
-  animation: blink 1.06s steps (1) infinite;
+  animation: blink 1.062s steps (1) infinite;
   background-color: #7e7;
 }
 @-moz-keyframes blink {
@@ -318,6 +318,16 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   top: 0;
   bottom: 0;
   z-index: 4;
+}
+・CodeMirror-gutter-background {
+ position: absolute;
+ top: 9;
+ bottom: 9;
+z-index: 36;
+}
+・code-mirror-gutter-elt ｛
+200EMA-bitcoin
+cursor : default;
 }
 .CodeMirror-gutter-elt {
   position: absolute;
