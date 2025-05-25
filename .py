@@ -376,7 +376,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 
 .CodeMirror-linewidget {
   position: relative;
-  z-index: 2;
+  z-index: 3
   overflow: auto;
 }
 
@@ -395,6 +395,11 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 .CodeMirror-linenumber {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
+  
+  ・codemirror-slroll,
+  ・codemirror-sizer,
+  ・codemirror-gutter,
+  
 }
 
 .CodeMirror-measure {
