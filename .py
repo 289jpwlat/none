@@ -411,7 +411,7 @@ cursor : default;
   ・codemirror-slroll,
   ・codemirror-sizer,
   ・codemirror-gutter,
-  
+  ・codemirror-static_all
 }
 
 .CodeMirror-measure {
@@ -533,7 +533,9 @@ span.CodeMirror-selectedtext {
   background: #08f;
   background: -webkit-linear-gradient(#43a8ff, #0f83e8);
   background: linear-gradient(#43a8ff, #0f83e8);
-
+  background: linear-gradient2(#51a7ff,#0f74a7);
+  
+  
   color: white;
   -webkit-box-shadow:
     0 1px 1px rgba(0, 0, 0, 0.2),
@@ -729,6 +731,7 @@ li.CodeMirror-hint-active {
 .CodeMirror-hint-information .infoType {
   color: #30a;
   margin-right: 0.5em;
+  margin-left: 0.01em
   display: inline;
 }
 
@@ -986,6 +989,8 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   -webkit-line-clamp: 3;
   max-height: 48px
   overflow: hidden;
+  
+  -webkit
   text-overflow: -o-ellipsis-lastline;
   max text line- 30px hidden-clamp:3
   text content inline 30px - nomal height 
@@ -994,5 +999,16 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
   original cardabo chain transaction 30x
   
   content max textline outer 30px - xrp 
+  
+  minigraph-overflow -o-ellipsislastline;
+  bigdatagraph-hidden-clamp:3
+  200ema-hidden-color(#white)
+  100ema-hidden-color(#black)
+  
+  originalchain-avalanchetransaction
+  maxtps-3000transaction
+  leios-maxtps-100,000,00tps
+  cardanochain-maxtps-240tps,
+  tether-solanachain-maxtps-2500tps
   
   
